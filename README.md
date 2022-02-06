@@ -1,4 +1,6 @@
-# Codes for my PhD Thesis
+<img alt="Banner" width="100%" src="Banner PhD Thesis.png">
+
+# PhD Thesis related codes
 
 This repository contains codes for data acquisition and processing, as well as for generation of results related to my current doctoral research.
 
@@ -6,9 +8,9 @@ This work focuses on the usage of Solar Heat for Industrial Processes (SHIP) in 
 
 While burning wood or bagasse is a cheap, renewable option for heat (if biomass is handled properly), there are some downsides to it, such as high emission of particulates, price variation according to harvesting seasons, long distance transportation of biomass via trucks, thus adding fossil fuel emissions to the mix.
 
-A possible solution is to couple SHIP and biomass for heat generation in industry. The goal of this research is to analyze this solution for Brazil.
+A possible solution is to couple SHIP and biomass for heat generation in industry. The goal of this research is to study the profitability of such solution for Brazilian industries.
 
-The goal is to develop a novel simulation model for SHIP, based on machine learning algorithms, in order to reduce SHIP simulation computing time and costs. 
+Among future developments, a novel simulation model for SHIP will be developed, based on machine learning algorithms, in order to reduce SHIP simulation computing time and costs. 
 
 This model is going to be used to analyse the performence of SHIP along the country, thus making it possible to estimate the cost of generating heat with solar energy. The cost of biomass combustion for heat can be estimated using georreferenced data on biomass availability and transportation networks in Brazil. Having both the costs of SHIP and biomass generated heat in Brazil, a comparison can be made at several locations in the country, aiming to identify opportunities for SHIP technology.
 
