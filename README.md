@@ -1,3 +1,5 @@
+[![author](https://img.shields.io/badge/author-leo.lemos-red.svg)](https://www.linkedin.com/in/leonardo-lacerda-lemos/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/rafaelnduarte/portfolio/issues)
+
 <img alt="Banner" width="100%" src="Banner PhD Thesis.png">
 
 This repository contains codes for data acquisition and processing, as well as for generation of results related to my current doctoral research.
